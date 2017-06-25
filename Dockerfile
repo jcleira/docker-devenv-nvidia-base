@@ -76,4 +76,4 @@ RUN git clone https://github.com/jcorral/dotfiles.git ~/Code/dotfiles  && \
 # Install oh-my-zsh
 RUN git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
 
-RUN /home/dev/dotfiles/.vim/bundle/YouCompleteMe/install.py --tern-completer
+RUN ~/Code/dotfiles/.vim/bundle/YouCompleteMe/install.py --tern-completer
