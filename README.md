@@ -2,4 +2,4 @@
 
 ![Docker NVIDIA Logo](http://i.imgur.com/S8a7CUQ.jpg)
 
-This repository contains my pre-configured base development environment using NVIDIA Cuda, it's customized using my dotfiles.
+This repository contains a base development environment using NVIDIA Cuda, it is customized using my dotfiles.
